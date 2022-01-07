@@ -10,7 +10,7 @@
 
 ## Live preview
 
-> https://alejandrovela-dev.github.io/js-tictactoe/
+> https://ty-14.netlify.app/
 
 ## Screenshots
 
